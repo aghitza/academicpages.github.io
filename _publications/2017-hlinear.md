@@ -2,9 +2,9 @@
 title: "HLinear: Exact Dense Linear Algebra in Haskell"
 coauthors: "Martin Raum"
 collection: publications
-permalink: /publication/2017-08-10-hlinear
+permalink: /publication/2017-hlinear
 excerpt: 'Haskell implementation of the PLE decomposition of matrices over division rings.'
-date: 2017-08-10
+date: 2017
 venue: 'Submitted'
 paperurl: 'https://arxiv.org/pdf/1605.02532'
 ---
