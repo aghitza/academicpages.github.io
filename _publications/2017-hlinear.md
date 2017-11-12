@@ -4,7 +4,7 @@ coauthors: "Martin Raum"
 collection: publications
 permalink: /publication/2017-hlinear
 excerpt: 'Haskell implementation of the PLE decomposition of matrices over division rings.'
-date: 2017
+date: 2017-01-01
 venue: 'Submitted'
 paperurl: 'https://arxiv.org/pdf/1605.02532'
 ---
