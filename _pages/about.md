@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**BEWARE: I am in the middle of migrating my page to this location. If you somehow arrived at this page, please note that it is not really meant to be useful yet. I suggest you visit the** [current working page](https://aghitza.org) **instead.**
+**BEWARE: I am in the middle of migrating my page to this location. If you somehow arrived at this page, please note that it is not really meant to be useful yet. I suggest you visit the** [current working page](http://aghitza.org) **instead.**
 
 I am a [senior lecturer][ausedu] in [Pure Mathematics][ms] at the [University of Melbourne][unimelb], in Australia.
 My research is in [arithmetic algebraic geometry][arithgeo], an area at the intersection of [number theory][numthy] and [algebraic geometry][alggeo].
