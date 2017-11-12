@@ -84,7 +84,7 @@ author:
   bio              : "Number theorist"
   location         : "Melbourne, Australia"
   employer         : "School of Mathematics and Statistics, University of Melbourne"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.au/citations?user=u2Bef28AAAAJ"
   email            : "aghitza@alum.mit.edu"
   uri              :
   bitbucket        : "aghitza"
@@ -94,12 +94,12 @@ author:
   facebook         :
   foursquare       :
   github           : "aghitza"
-  google_plus      :
+  google_plus      : "https://plus.google.com/+AlexGhitza"
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4377-3380"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
