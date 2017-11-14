@@ -47,17 +47,17 @@ layout: default
         
         <p>
         Links:
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}">Journal</a>
+        {% if page.paperurl %}
+          <a href="{{ page.paperurl }}">Journal</a>
         {% endif %}
-        {% if post.arxiv %}
-          <a href="https://arxiv.org/abs/{{ post.arxiv }}">ArXiv</a>
+        {% if page.arxiv %}
+          <a href="https://arxiv.org/abs/{{ page.arxiv }}">ArXiv</a>
         {% endif %}
-        {% if post.code %}
-          <a href="{{ post.code }}">Code</a>
+        {% if page.code %}
+          <a href="{{ page.code }}">Code</a>
         {% endif %}
-        {% if post.data %}
-          <a href="{{ post.data }}">Data</a>
+        {% if page.data %}
+          <a href="{{ page.data }}">Data</a>
         {% endif %}
         </p>
     
