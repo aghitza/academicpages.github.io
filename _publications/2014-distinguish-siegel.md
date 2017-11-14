@@ -1,4 +1,8 @@
 ---
+abstract: Given two Siegel eigenforms of different weights, we determine explicit
+  sets of Hecke eigenvalues for the two forms that must be distinct. In degree two,
+  and under some additional conditions, we determine explicit sets of Fourier coefficients
+  of the two forms that must be distinct.
 coauthors: R. Sayer
 collection: publications
 date: '2014-01-01'

@@ -1,4 +1,8 @@
 ---
+abstract: We derive an explicit upper bound for the number of systems of Hecke eigenvalues
+  coming from Siegel modular forms (mod $p$) of dimension $g$ and level $N$ relatively
+  prime to $p$. In the special case of elliptic modular forms ($g=1$), our result
+  agrees with an independently-obtained bound appearing in the PhD thesis of L. Clay.
 collection: publications
 date: '2004-01-01'
 paperurl: https://doi.org/10.1155/S1073792804140269

@@ -8,10 +8,7 @@ abstract: In a letter to Tate, Serre proves that the systems of Hecke eigenvalue
   unitary group, as defined by Gross. The correspondence is obtained by restricting
   to the superspecial locus of the moduli space of abelian varieties.
 collection: publications
-date: '2004-01-01'
-paperurl: https://doi.org/10.1016/j.jnt.2003.12.009
-permalink: /publication/2004-eigensystems-algebraic
-title: Hecke eigenvalues of Siegel modular forms (mod $p$) and of algebraic modular
-  forms
-venue: 'J. Number Theory, 106(2): 345-384'
+date: '2003-01-01'
+permalink: /publication/2003-phd-thesis
+title: Siegel modular forms (mod $p$) and algebraic modular forms
 ---

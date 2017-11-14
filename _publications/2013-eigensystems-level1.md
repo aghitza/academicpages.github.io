@@ -1,4 +1,6 @@
 ---
+abstract: We describe an algorithm for enumerating the set of level one systems of
+  Hecke eigenvalues arising from modular forms (mod $p$).
 coauthors: C. Citro
 collection: publications
 date: '2013-01-01'

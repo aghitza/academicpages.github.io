@@ -1,4 +1,12 @@
 ---
+abstract: Consider the Fourier expansions of two elements of a given space of modular
+  forms. How many leading coefficients must agree in order to guarantee that the two
+  expansions are the same? Sturm gave an upper bound for modular forms of a given
+  weight and level. This was adapted by Ram Murty, Kohnen and Ghitza to the case of
+  two eigenforms of the same level but having potentially different weights. We consider
+  their expansions modulo a prime ideal, presenting a new bound. In the process of
+  analysing this bound, we generalise a result of Bach and Sorenson, who provide a
+  practical upper bound for the least prime in an arithmetic progression.
 coauthors: S. Chow
 collection: publications
 date: '2014-01-01'
