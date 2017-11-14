@@ -11,4 +11,5 @@ collection: publications
 date: '2003-01-01'
 permalink: /publication/2003-phd-thesis
 title: Siegel modular forms (mod $p$) and algebraic modular forms
+venue: PhD Thesis, Massachusetts Institute of Technology
 ---
