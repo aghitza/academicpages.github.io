@@ -4,6 +4,7 @@ abstract: We describe a computational approach to the verification of Maeda's co
   experimental evidence for all weights less than $12000$, as well as some applications
   of these results. The algorithm was implemented using the mathematical software
   Sage, and the code and resulting data were made freely available.
+arxiv: '1207.3480'
 coauthors: A. McAndrew
 collection: publications
 date: '2012-01-01'

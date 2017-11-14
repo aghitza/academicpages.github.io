@@ -2,6 +2,7 @@
 abstract: We present an algorithm for enumerating all odd semisimple two-dimensional
   mod $p$ Galois representations unramified outside $p$. We also discuss the implementation
   of this algorithm in Sage and give a summary of the results we obtained.
+arxiv: '1006.4084'
 coauthors: C. Citro
 collection: publications
 date: '2010-01-01'

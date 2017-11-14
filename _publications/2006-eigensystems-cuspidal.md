@@ -7,6 +7,7 @@ abstract: We show that the systems of Hecke eigenvalues occurring in the spaces 
   the same as those coming from cusp forms. The proof uses restriction to the superspecial
   locus. We also give a comparison of cusp forms on the Satake compactification versus
   the toroidal compactifications of Siegel modular varieties.
+arxiv: math/0511728
 collection: publications
 date: '2006-01-01'
 paperurl: https://doi.org/10.4310/MRL.2006.v13.n5.a11

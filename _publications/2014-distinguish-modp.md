@@ -7,6 +7,7 @@ abstract: Consider the Fourier expansions of two elements of a given space of mo
   their expansions modulo a prime ideal, presenting a new bound. In the process of
   analysing this bound, we generalise a result of Bach and Sorenson, who provide a
   practical upper bound for the least prime in an arithmetic progression.
+arxiv: '1304.1832'
 coauthors: S. Chow
 collection: publications
 date: '2014-01-01'

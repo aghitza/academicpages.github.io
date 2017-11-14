@@ -4,6 +4,7 @@ abstract: We present an implementation in the functional programming language Ha
   that it is competitive with the C-based implementation provided in Flint. Describing
   the guiding principles of our work, we introduce the reader to basic ideas from
   high-performance functional programming.
+arxiv: '1605.02532'
 coauthors: M. Raum
 code: https://github.com/martinra/hlinear
 collection: publications

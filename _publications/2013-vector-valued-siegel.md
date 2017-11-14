@@ -7,6 +7,7 @@ abstract: 'We carry out some computations of vector valued Siegel modular forms 
   forms, (2) we observe that non-cuspidal eigenforms of level one are not always rational
   and (3) we verify a number of cases of conjectures about congruences between classical
   modular forms and Siegel modular forms.'
+arxiv: '1203.5611'
 coauthors: N. C. Ryan and D. Sulon
 collection: publications
 date: '2013-01-01'

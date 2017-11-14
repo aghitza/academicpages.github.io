@@ -7,6 +7,7 @@ abstract: In a letter to Tate, Serre proves that the systems of Hecke eigenvalue
   the same as the ones given by algebraic modular forms (mod $p$) on a quaternionic
   unitary group, as defined by Gross. The correspondence is obtained by restricting
   to the superspecial locus of the moduli space of abelian varieties.
+arxiv: math/0306224
 collection: publications
 date: '2003-01-01'
 permalink: /publication/2003-phd-thesis
