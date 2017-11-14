@@ -1,7 +1,5 @@
 ---
-coauthors:
-- N. C. Ryan
-- D. Sulon
+coauthors: N. C. Ryan and D. Sulon
 collection: publications
 date: '2013-01-01'
 paperurl: https://doi.org/10.1016/j.jnt.2013.04.024

@@ -1,6 +1,6 @@
 ---
 title: "Distinguishing newforms"
-coauthors: "Sam Chow"
+coauthors: "S. Chow"
 collection: publications
 permalink: /publication/2015-distinguishing-newforms
 excerpt: 'How many Fourier coefficients are needed to distinguish two newforms of the same level?'
