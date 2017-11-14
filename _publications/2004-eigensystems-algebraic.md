@@ -1,5 +1,4 @@
 ---
-coauthors: ''
 collection: publications
 date: '2004-01-01'
 paperurl: https://doi.org/10.1016/j.jnt.2003.12.009

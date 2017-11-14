@@ -1,5 +1,4 @@
 ---
-coauthors: ''
 collection: publications
 date: '2006-01-01'
 paperurl: https://doi.org/10.4310/MRL.2006.v13.n5.a11

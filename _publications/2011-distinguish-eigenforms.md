@@ -1,5 +1,4 @@
 ---
-coauthors: ''
 collection: publications
 date: '2011-01-01'
 paperurl: https://doi.org/10.1142/S1793042111004708
