@@ -12,5 +12,5 @@ date: '2017-01-01'
 permalink: /publication/2017-hlinear
 slogan: Haskell implementation of PLE decomposition of matrices over division rings
 title: 'HLinear: Exact Dense Linear Algebra in Haskell'
-venue: Submitted
+venue: In progress
 ---
